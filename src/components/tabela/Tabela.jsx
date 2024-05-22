@@ -15,7 +15,7 @@ const Tabela = function(){
                             CLASSIFICAÇÂO
                         </td>
                     </tr>
-                    <tr className={style.tableLine}>
+                    <tr className={style.tableLineSucess}>
                         <td>
                             MENOR QUE 18.5
                         </td>
@@ -31,7 +31,7 @@ const Tabela = function(){
                             NORMAL
                         </td>
                     </tr>
-                    <tr className={style.tableLine}>
+                    <tr className={style.tableLineSucess}>
                         <td>
                             ENTRE 25.0 E 29.9
                         </td>
@@ -39,7 +39,7 @@ const Tabela = function(){
                             SOBREPESO
                         </td>
                     </tr>
-                    <tr className={style.tableLine}>
+                    <tr className={style.tableLineSucess}>
                         <td>
                             ENTRE 30.0 E 39.9
                         </td>
@@ -47,7 +47,7 @@ const Tabela = function(){
                             OBESIDADE
                         </td>
                     </tr>
-                    <tr className={style.tableLine}>
+                    <tr className={style.tableLineSucess}>
                         <td>
                             MAIOR QUE 40
                         </td>
